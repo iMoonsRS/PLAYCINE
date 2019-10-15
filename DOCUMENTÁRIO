@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais", ANIMAL PLANET  
+http://172.105.148.165/hls/s:155.138.226.22/animalplanet_e114c448_be74f47c823a2bc7ac93eb80af2992ef02818959/480p/chunklist.m3u8
