@@ -109,3 +109,5 @@ http://orcus.tvcast.xyz/hls/s:155.138.226.22/disneychannel_a9334987_6b4ecfd31290
 
 #EXTINF:-1 tvg-id="NICK JUNIOR" tvg-logo="  " group-title="Desenhos", NICK JUNIOR http://orcus.tvcast.xyz/hls/s:155.138.227.156/nickjr_54ceb912_1886d9502ad11ee5f2cfa9821bd15b7f5b4137e4/410p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Premier" tvg-logo="  " group-title="FUTEBOL", PREMIER 
+http://131815199.r.fdccdn.net/131815199/_definst_/premier2/playlist.m3u8
