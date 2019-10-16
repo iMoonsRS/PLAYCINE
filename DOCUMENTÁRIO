@@ -18,3 +18,5 @@ http://pherusa.tvcast.xyz/hls/s:155.138.227.45/telecinepipoca_fd937516_0f58164aa
 #EXTINF:-1 tvg-id="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais", TC ACTION 
 http://epimetheus.tvcast.xyz/hls/s:155.138.227.45/telecineaction_be057d4c_08bfd07967b4fc5dc2f185106f83ef46c565697e/480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais", HBO  
+http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba811aae94d2f06beb973614a303f.m3u8
