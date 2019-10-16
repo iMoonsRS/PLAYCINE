@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Canais", TC PREMIUM
 http://thallo.tvcast.xyz/hls/s:45.32.217.66/telecinepremium_a929eb33_3c2c732d810de712521156a060984c9a805d8108/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TC PREMIUM HD" tvg-logo="http://planossky.com.br/wp-content/uploads/2018/07/telecine-premium-hd-300x300.png"  group-title="Canais", TC PREMIUM HD 
-http://dike.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73ae1532e7e7fb17b46936dbf69b4d7537/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais", TC FUN
 http://carpo.tvcast.xyz/hls/s:155.138.227.45/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
 
@@ -18,6 +15,16 @@ http://epimetheus.tvcast.xyz/hls/s:155.138.227.45/telecineaction_be057d4c_08bfd0
 
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png"  group-title="Canais", TC TOUCH 
 http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinetouch_74cbd2c2_ff5f6d70692e072716772adc358394f9d16f4c24/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TC PREMIUM HD" tvg-logo="http://planossky.com.br/wp-content/uploads/2018/07/telecine-premium-hd-300x300.png"  group-title="Canais", TC PREMIUM HD 
+http://dike.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73ae1532e7e7fb17b46936dbf69b4d7537/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TC ACTION HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-262-canal-tc-action-hd.png"  group-title="Canais",  
+TC ACTION HD  http://172.105.150.112/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_70755b0efcb2f8de8f617f8cb1f0cda3165f746b.m3u8
+
+#EXTINF:-1 tvg-id="TC PIPOCA HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png"  group-title="Canais",  TV PIPOCA HD  
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_060885974e0be92de006b0badcb889d3c7ddd448/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://imbloodyibiza.files.wordpress.com/2011/07/hbo.png"  group-title="Canais", HBO  
 http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba811aae94d2f06beb973614a303f.m3u8
@@ -41,8 +48,8 @@ http://172.105.151.177/hls/s:95.216.15.44:81/space_e6c3dd63_1c921da308d95b459640
 http://172.105.151.177/hls/s:155.138.227.45/megapix_a6f16ab4_1bb0075818826f14fa744d9da54d3b6037faae72/410p/chunklist.m3u8
 
 #####documentarios#####
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais", ANIMAL PLANET  
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="documentario", ANIMAL PLANET  
 http://172.105.148.165/hls/s:155.138.226.22/animalplanet_e114c448_be74f47c823a2bc7ac93eb80af2992ef02818959/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Canais", NAT GEO WILD
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="documentario", NAT GEO WILD
 http://172.105.151.177/hls/s:155.138.227.45/natgeowild_e4dd8a3f_c7dc07a5d1c96280a9688b4a39d4a68f7daeadd6/480p/chunklist.m3u8
