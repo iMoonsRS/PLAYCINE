@@ -11,3 +11,6 @@ http://thallo.tvcast.xyz/hls/s:45.32.217.66/telecinepremium_a929eb33_3c2c732d810
 
 #EXTINF:-1 tvg-id="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais", TC FUN
 http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Canais", TC PIPOCA
+http://pherusa.tvcast.xyz/hls/s:155.138.227.45/telecinepipoca_fd937516_0f58164aa67e856b83917c44c82fb8b36792373e/410p/chunklist.m3u8
