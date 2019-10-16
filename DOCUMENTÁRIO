@@ -2,22 +2,22 @@
 
 #####filmes######
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Filmes", TC PREMIUM
-http://thallo.tvcast.xyz/hls/s:45.32.217.66/telecinepremium_a929eb33_3c2c732d810de712521156a060984c9a805d8108/480p/chunklist.m3u8
+http://carpo.tvcast.xyz/hls/s:155.138.227.45/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Filmes", TC FUN
 http://carpo.tvcast.xyz/hls/s:155.138.227.45/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Filmes", TC PIPOCA
-http://pherusa.tvcast.xyz/hls/s:155.138.227.45/telecinepipoca_fd937516_0f58164aa67e856b83917c44c82fb8b36792373e/410p/chunklist.m3u8
+http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipoca_fd937516_0f58164aa67e856b83917c44c82fb8b36792373e.m3u8
 
 #EXTINF:-1 tvg-id="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Filmes", TC ACTION 
-http://epimetheus.tvcast.xyz/hls/s:155.138.227.45/telecineaction_be057d4c_08bfd07967b4fc5dc2f185106f83ef46c565697e/480p/chunklist.m3u8
+http://172.105.151.177/hls/s:45.32.217.66/telecineaction_be057d4c_08bfd07967b4fc5dc2f185106f83ef46c565697e/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png"  group-title="Filmes", TC TOUCH 
-http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinetouch_74cbd2c2_ff5f6d70692e072716772adc358394f9d16f4c24/480p/chunklist.m3u8
+http://172.105.148.165/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_ff5f6d70692e072716772adc358394f9d16f4c24.m3u8
 
 #EXTINF:-1 tvg-id="TC CULT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png"  group-title="Filmes",  TC CULT  
-http://eirene.tvcast.xyz/hls/s:155.138.227.45/telecinecult_8d255e1e_4c7c443d95fc29abddb2fe0c5733d35b830089e8/410p/chunklist.m3u8
+http://172.105.149.61/hls/s:155.138.226.22/telecinecult_8d255e1e_4c7c443d95fc29abddb2fe0c5733d35b830089e8/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC PREMIUM HD" tvg-logo="http://planossky.com.br/wp-content/uploads/2018/07/telecine-premium-hd-300x300.png"  group-title="Filmes", TC PREMIUM HD 
 http://dike.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73ae1532e7e7fb17b46936dbf69b4d7537/playlist.m3u8
