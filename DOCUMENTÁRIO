@@ -43,6 +43,15 @@ http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_f8179f2ec6ef2
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  group-title="Canais",  HBO SIGNATURE  
 http://172.105.151.177/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_9bf4d639da557c2a50ce6cd0787ba00a1f359245/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png"  group-title="Canais",  MAX 
+http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/max_9f682df2_c328f8b5fdd072b12853ac50a9ec4aa6df7303e7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="https://4.bp.blogspot.com/-W0ZMXcsdbyU/XJp8dPOI0dI/AAAAAAABTRs/E8_OZakFENcYnnxh07SX9_J7Gwq__CU-ACLcBGAs/s640/maxprimeb.png"  group-title="Canais",  MAX PRIME  
+http://dike.tvcast.xyz/hls/s:95.216.15.44:81/maxprime_9c676e00_f3af70d67a01079c5c5b777f925118d7b572e5df/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png"  group-title="Canais",  MAX UP  
+http://172.105.148.146/hls/s:95.216.15.44:81/maxup_ce09b127_a3982aa9ebfce95e58a84189cf0d919e560406b8/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png"  group-title="Filmes", TNT 
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_bb8edcc57198646f4513df0b055dfe499c367094.m3u8
 
