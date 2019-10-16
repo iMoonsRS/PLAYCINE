@@ -25,15 +25,20 @@ TC ACTION HD  http://172.105.150.112/hls/s:95.216.15.44:81/telecineactionhd_be2
 #EXTINF:-1 tvg-id="TC PIPOCA HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png"  group-title="Filmes",  TC PIPOCA HD  
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_060885974e0be92de006b0badcb889d3c7ddd448/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://imbloodyibiza.files.wordpress.com/2011/07/hbo.png"  group-title="Filmes", HBO  
 http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba811aae94d2f06beb973614a303f.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png"  group-title="Canais",  HBO2  
+http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/hbo2720p_05a53e36_17e69f83374f85d4d9bdfdd568bf1e9116a3d4c5.m3u8
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="Filmes", HBO PLUS   
 http://172.105.148.165/hls/s:95.216.15.44:81/hboplus480p_17820ac1_083fd8cc91f955715b99eb69efec2d064a912dad/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  group-title="Filmes", HBO FAMILY
 http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_f8179f2ec6ef293078e19a5773f4e3c279494f3a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  group-title="Canais",  HBO SIGNATURE  
+http://172.105.151.177/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_9bf4d639da557c2a50ce6cd0787ba00a1f359245/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png"  group-title="Filmes", TNT 
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_bb8edcc57198646f4513df0b055dfe499c367094.m3u8
