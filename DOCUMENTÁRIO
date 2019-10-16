@@ -64,6 +64,15 @@ http://172.105.151.177/hls/s:95.216.15.44:81/space_e6c3dd63_1c921da308d95b459640
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png"  group-title="Filmes", MEGAPIX 
 http://172.105.151.177/hls/s:155.138.227.45/megapix_a6f16ab4_1bb0075818826f14fa744d9da54d3b6037faae72/410p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TCM" tvg-logo=" https://cdn.mitvstatic.com/channels/br_tcm_m.png"  group-title="Canais",  TCM 
+http://epimetheus.tvcast.xyz/hls/s:45.32.217.66/tcm_13b72490_4a57a6560a417a1dd17d9ae6bb41c7505e5fa953/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2000px-Paramount_Network.svg.png"  group-title="Canais",  PARAMOUNT CHANNEL  
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/paramountchannel_efa260ad_996e2fe09e7de670574839900989863b0345bf05.m3u8
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/amc.png"  group-title="Canais",  AMC BRASIL  
+http://carpo.tvcast.xyz/hls/s:155.138.227.156/amcbrasil_b7f5113f_02a3a596c477f367088389ef40e2c8d96616f165/410p/chunklist.m3u8
+
 #####documentarios#####
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="documentario", ANIMAL PLANET  
 http://172.105.148.165/hls/s:155.138.226.22/animalplanet_e114c448_be74f47c823a2bc7ac93eb80af2992ef02818959/480p/chunklist.m3u8
