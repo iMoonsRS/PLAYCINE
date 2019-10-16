@@ -23,3 +23,18 @@ http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba81
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="Canais", HBO PLUS   
 http://172.105.148.165/hls/s:95.216.15.44:81/hboplus480p_17820ac1_083fd8cc91f955715b99eb69efec2d064a912dad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  group-title="Canais", HBO 
+FAMILY http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_f8179f2ec6ef293078e19a5773f4e3c279494f3a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png"  group-title="Canais", TNT 
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_bb8edcc57198646f4513df0b055dfe499c367094.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRs/be5yX8IXBZQ/s1600/Warner_Channel_logo.png"  group-title="Canais", WARNER CHANNEL 
+http://172.105.151.177/hls/s:155.138.227.156/warnerchannel_0a57cb53_2818affddaf069426cdb6b539b4f85ee9d297de8/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png"  group-title="Canais", SPACE 
+http://172.105.151.177/hls/s:95.216.15.44:81/space_e6c3dd63_1c921da308d95b4596403c4ddffa422475b39309/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png"  group-title="Canais", MEGAPIX 
+http://172.105.151.177/hls/s:155.138.227.45/megapix_a6f16ab4_1bb0075818826f14fa744d9da54d3b6037faae72/410p/chunklist.m3u8
