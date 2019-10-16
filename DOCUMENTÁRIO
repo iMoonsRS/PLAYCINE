@@ -76,7 +76,7 @@ http://carpo.tvcast.xyz/hls/s:155.138.227.156/amcbrasil_b7f5113f_02a3a596c477f36
 #####documentarios#####
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="documentario", ANIMAL PLANET   
-http://orthosie.tvcast.xyz/hls/s:155.138.227.45/animalplanet_e114c448_4c93dde0ce8c6db3260d5b170f80e74952a6deff/480p/chunklist.m3u8
+http://172.105.149.61/hls/s:155.138.227.156/animalplanet_e114c448_4c93dde0ce8c6db3260d5b170f80e74952a6deff/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="documentario", NAT GEO WILD 
 http://172.105.150.112/hls/s:45.32.217.66/natgeowild_e4dd8a3f_c7dc07a5d1c96280a9688b4a39d4a68f7daeadd6/480p/chunklist.m3u8
