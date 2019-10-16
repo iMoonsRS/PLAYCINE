@@ -56,7 +56,7 @@ http://172.105.148.146/hls/s:95.216.15.44:81/maxup_ce09b127_a3982aa9ebfce95e58a8
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_bb8edcc57198646f4513df0b055dfe499c367094.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRs/be5yX8IXBZQ/s1600/Warner_Channel_logo.png"  group-title="Filmes", WARNER CHANNEL 
-http://172.105.151.177/hls/s:155.138.227.156/warnerchannel_0a57cb53_2818affddaf069426cdb6b539b4f85ee9d297de8/410p/chunklist.m3u8
+http://euporie.tvcast.xyz/hls/s:155.138.227.45/warnerchannel_0a57cb53_2818affddaf069426cdb6b539b4f85ee9d297de8/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png"  group-title="Filmes", SPACE 
 http://172.105.151.177/hls/s:95.216.15.44:81/space_e6c3dd63_1c921da308d95b4596403c4ddffa422475b39309/playlist.m3u8
