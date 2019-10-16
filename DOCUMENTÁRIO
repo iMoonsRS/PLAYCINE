@@ -16,7 +16,7 @@ http://epimetheus.tvcast.xyz/hls/s:155.138.227.45/telecineaction_be057d4c_08bfd0
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png"  group-title="Filmes", TC TOUCH 
 http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinetouch_74cbd2c2_ff5f6d70692e072716772adc358394f9d16f4c24/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TC CULT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png"  group-title="Canais",  TC CULT  
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png"  group-title="Filmes",  TC CULT  
 http://eirene.tvcast.xyz/hls/s:155.138.227.45/telecinecult_8d255e1e_4c7c443d95fc29abddb2fe0c5733d35b830089e8/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC PREMIUM HD" tvg-logo="http://planossky.com.br/wp-content/uploads/2018/07/telecine-premium-hd-300x300.png"  group-title="Filmes", TC PREMIUM HD 
@@ -31,7 +31,7 @@ http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_06088597
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://imbloodyibiza.files.wordpress.com/2011/07/hbo.png"  group-title="Filmes", HBO  
 http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba811aae94d2f06beb973614a303f.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png"  group-title="Canais",  HBO2  
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png"  group-title="Filmes",  HBO2  
 http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/hbo2720p_05a53e36_17e69f83374f85d4d9bdfdd568bf1e9116a3d4c5.m3u8
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="Filmes", HBO PLUS   
@@ -40,13 +40,13 @@ http://172.105.148.165/hls/s:95.216.15.44:81/hboplus480p_17820ac1_083fd8cc91f955
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  group-title="Filmes", HBO FAMILY
 http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_f8179f2ec6ef293078e19a5773f4e3c279494f3a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  group-title="Canais",  HBO SIGNATURE  
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  group-title="Filmes",  HBO SIGNATURE  
 http://172.105.151.177/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_9bf4d639da557c2a50ce6cd0787ba00a1f359245/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png"  group-title="Canais",  MAX 
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png"  group-title="Filmes",  MAX 
 http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/max_9f682df2_c328f8b5fdd072b12853ac50a9ec4aa6df7303e7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="https://4.bp.blogspot.com/-W0ZMXcsdbyU/XJp8dPOI0dI/AAAAAAABTRs/E8_OZakFENcYnnxh07SX9_J7Gwq__CU-ACLcBGAs/s640/maxprimeb.png"  group-title="Canais",  MAX PRIME  
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="https://4.bp.blogspot.com/-W0ZMXcsdbyU/XJp8dPOI0dI/AAAAAAABTRs/E8_OZakFENcYnnxh07SX9_J7Gwq__CU-ACLcBGAs/s640/maxprimeb.png"  group-title="Filmes",  MAX PRIME  
 http://dike.tvcast.xyz/hls/s:95.216.15.44:81/maxprime_9c676e00_f3af70d67a01079c5c5b777f925118d7b572e5df/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAX UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png"  group-title="Canais",  MAX UP  
@@ -67,10 +67,10 @@ http://172.105.151.177/hls/s:155.138.227.45/megapix_a6f16ab4_1bb0075818826f14fa7
 #EXTINF:-1 tvg-id="TCM" tvg-logo=" https://cdn.mitvstatic.com/channels/br_tcm_m.png"  group-title="Canais",  TCM 
 http://epimetheus.tvcast.xyz/hls/s:45.32.217.66/tcm_13b72490_4a57a6560a417a1dd17d9ae6bb41c7505e5fa953/410p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2000px-Paramount_Network.svg.png"  group-title="Canais",  PARAMOUNT CHANNEL  
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2000px-Paramount_Network.svg.png"  group-title="Filmes",  PARAMOUNT CHANNEL  
 http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/paramountchannel_efa260ad_996e2fe09e7de670574839900989863b0345bf05.m3u8
 
-#EXTINF:-1 tvg-id="AMC BRASIL" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/amc.png"  group-title="Canais",  AMC BRASIL  
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/amc.png"  group-title="Filmes",  AMC BRASIL  
 http://carpo.tvcast.xyz/hls/s:155.138.227.156/amcbrasil_b7f5113f_02a3a596c477f367088389ef40e2c8d96616f165/410p/chunklist.m3u8
 
 #####documentarios#####
