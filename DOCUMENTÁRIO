@@ -19,10 +19,10 @@ http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinetouch_74cbd2c2_ff5f6d70692e
 #EXTINF:-1 tvg-id="TC PREMIUM HD" tvg-logo="http://planossky.com.br/wp-content/uploads/2018/07/telecine-premium-hd-300x300.png"  group-title="Canais", TC PREMIUM HD 
 http://dike.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73ae1532e7e7fb17b46936dbf69b4d7537/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TC ACTION HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-262-canal-tc-action-hd.png"  group-title="Canais",  
+#EXTINF:-1 tvg-id="TC ACTION HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-262-canal-tc-action-hd.png"  group-title="Canais", TC ACTION HD
 TC ACTION HD  http://172.105.150.112/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_70755b0efcb2f8de8f617f8cb1f0cda3165f746b.m3u8
 
-#EXTINF:-1 tvg-id="TC PIPOCA HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png"  group-title="Canais",  TV PIPOCA HD  
+#EXTINF:-1 tvg-id="TC PIPOCA HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png"  group-title="Canais",  TC PIPOCA HD  
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_060885974e0be92de006b0badcb889d3c7ddd448/playlist.m3u8
 
 
