@@ -16,6 +16,9 @@ http://epimetheus.tvcast.xyz/hls/s:155.138.227.45/telecineaction_be057d4c_08bfd0
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png"  group-title="Filmes", TC TOUCH 
 http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinetouch_74cbd2c2_ff5f6d70692e072716772adc358394f9d16f4c24/480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png"  group-title="Canais",  TC CULT  
+http://eirene.tvcast.xyz/hls/s:155.138.227.45/telecinecult_8d255e1e_4c7c443d95fc29abddb2fe0c5733d35b830089e8/410p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="TC PREMIUM HD" tvg-logo="http://planossky.com.br/wp-content/uploads/2018/07/telecine-premium-hd-300x300.png"  group-title="Filmes", TC PREMIUM HD 
 http://dike.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73ae1532e7e7fb17b46936dbf69b4d7537/playlist.m3u8
 
