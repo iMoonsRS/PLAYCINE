@@ -30,8 +30,8 @@ http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba81
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="Canais", HBO PLUS   
 http://172.105.148.165/hls/s:95.216.15.44:81/hboplus480p_17820ac1_083fd8cc91f955715b99eb69efec2d064a912dad/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  group-title="Canais", HBO 
-FAMILY http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_f8179f2ec6ef293078e19a5773f4e3c279494f3a/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  group-title="Canais", HBO FAMILY
+http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_f8179f2ec6ef293078e19a5773f4e3c279494f3a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png"  group-title="Canais", TNT 
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_bb8edcc57198646f4513df0b055dfe499c367094.m3u8
