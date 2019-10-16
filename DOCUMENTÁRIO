@@ -93,3 +93,19 @@ http://orcus.tvcast.xyz/hls/s:45.32.217.66/discoverychannel_af3e1334_1ef006d90f4
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="  " group-title="documentario", HISTORY 
 http://thallo.tvcast.xyz/hls/s:155.138.226.22/history_b7eb6c68_8a83aa46c17449e430dd9d9a93024653cc23f431/410p/chunklist.m3u8
 
+#####INFANTIL#####
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-logo="  " group-title="Desenhos", CARTOON NET WORK 
+http://carpo.tvcast.xyz/hls/s:155.138.226.22/cartoonnetwork_511a418e_ad866beceb7f2b2fb7175c553634ad259ec30965/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="  " group-title="Desenhos", DISCOVERY KIDS 
+http://dike.tvcast.xyz/hls/s:155.138.227.156/discoverykids_80e28a51_0f4a0e47426c6e53272659519b21a87ba5b38b68/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="  " group-title="Desenhos", DISNEY JUNIOR 
+http://orcus.tvcast.xyz/hls/s:155.138.227.45/disneyjunior_572e2073_3239ddd788da2b02544793e6a540a9d3deedabc0/480p_510kbit/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="  " group-title="Desenhos", DISNEY CHANNEL 
+http://orcus.tvcast.xyz/hls/s:155.138.226.22/disneychannel_a9334987_6b4ecfd31290e879cadea371353a4495bf2615e8/410p
+
+#EXTINF:-1 tvg-id="NICK JUNIOR" tvg-logo="  " group-title="Desenhos", NICK JUNIOR http://orcus.tvcast.xyz/hls/s:155.138.227.156/nickjr_54ceb912_1886d9502ad11ee5f2cfa9821bd15b7f5b4137e4/410p/chunklist.m3u8
+
