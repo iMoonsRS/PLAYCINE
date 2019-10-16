@@ -6,4 +6,3 @@ http://172.105.148.165/hls/s:155.138.226.22/animalplanet_e114c448_be74f47c823a2b
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Canais", TC PREMIUM
 http://thallo.tvcast.xyz/hls/s:45.32.217.66/telecinepremium_a929eb33_3c2c732d810de712521156a060984c9a805d8108/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Canais", TC PIPOCA http://pherusa.tvcast.xyz/hls/s:155.138.227.156/telecinepipoca_fd937516_a8de7ce2c393686bd4eb9665828da4ab2a788b80/410p/chunklist.m3u8
