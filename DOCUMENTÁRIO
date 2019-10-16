@@ -20,3 +20,6 @@ http://epimetheus.tvcast.xyz/hls/s:155.138.227.45/telecineaction_be057d4c_08bfd0
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://imbloodyibiza.files.wordpress.com/2011/07/hbo.png"  group-title="Canais", HBO  
 http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba811aae94d2f06beb973614a303f.m3u8
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="Canais", HBO PLUS   
+http://172.105.148.165/hls/s:95.216.15.44:81/hboplus480p_17820ac1_083fd8cc91f955715b99eb69efec2d064a912dad/playlist.m3u8
