@@ -2,7 +2,7 @@
 
 #####filmes######
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Filmes", TC PREMIUM
-http://carpo.tvcast.xyz/hls/s:155.138.227.45/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
+http://dike.tvcast.xyz/hls/s:155.138.226.22/telecinepremium_a929eb33_46cdeafeb0a40af4fdfdb971530fda7f46f6f90c/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Filmes", TC FUN
 http://carpo.tvcast.xyz/hls/s:155.138.227.45/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
