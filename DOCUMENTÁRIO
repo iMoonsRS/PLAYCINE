@@ -113,4 +113,6 @@ http://131815199.r.fdccdn.net/131815199/_definst_/premier2/playlist.m3u8
 
 #####series####
 
+#EXTINF:-1 tvg-id="FOX" tvg-logo="  " group-title="Séries", FOX
+http://carpo.tvcast.xyz/hls/s:95.216.15.44:81/fox_5a5b0f9b_44fcf936c81ba04f4ae4b2b26f9b9901d4635b58/playlist.m3u8
 
