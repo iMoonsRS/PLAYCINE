@@ -25,7 +25,7 @@ http://dike.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73
 TC ACTION HD  http://172.105.150.112/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_70755b0efcb2f8de8f617f8cb1f0cda3165f746b.m3u8
 
 #EXTINF:-1 tvg-id="TC PIPOCA HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png"  group-title="Filmes",  TC PIPOCA HD  
-http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_060885974e0be92de006b0badcb889d3c7ddd448/playlist.m3u8
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_fef15a73ae1532e7e7fb17b46936dbf69b4d7537/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://imbloodyibiza.files.wordpress.com/2011/07/hbo.png"  group-title="Filmes", HBO  
 http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/hbo1080p_63266754_edac1136d3cba811aae94d2f06beb973614a303f.m3u8
