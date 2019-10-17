@@ -8,8 +8,7 @@ http://dike.tvcast.xyz/hls/s:155.138.226.22/telecinepremium_a929eb33_46cdeafeb0a
 http://carpo.tvcast.xyz/hls/s:155.138.227.45/telecinefun_ae1e7198_aa7c9edcb5d259386b1ef2dd9f822e9ebec0d388/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Filmes", TC PIPOCA
-http://orthosie.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipoca_fd937516_0f58164aa67e856b83917c44c82fb8b36792373e.m3u8
-
+http://orcus.tvcast.xyz/hls/s:45.32.217.66/telecinepipoca_fd937516_0f58164aa67e856b83917c44c82fb8b36792373e/410p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Filmes", TC ACTION 
 http://172.105.151.177/hls/s:45.32.217.66/telecineaction_be057d4c_08bfd07967b4fc5dc2f185106f83ef46c565697e/480p/chunklist.m3u8
 
