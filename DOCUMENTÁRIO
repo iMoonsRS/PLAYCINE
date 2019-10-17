@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Canais | Filmes e Séries",HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="" group-title="Canais | Filmes e Séries",HBO HD
 http://fsrv.me:80/2721918008/fireurl.co/1805
 
