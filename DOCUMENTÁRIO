@@ -98,7 +98,7 @@ http://thallo.tvcast.xyz/hls/s:155.138.226.22/history_b7eb6c68_8a83aa46c17449e43
 http://carpo.tvcast.xyz/hls/s:155.138.226.22/cartoonnetwork_511a418e_ad866beceb7f2b2fb7175c553634ad259ec30965/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="  " group-title="Desenhos", DISCOVERY KIDS 
-http://dike.tvcast.xyz/hls/s:155.138.227.156/discoverykids_80e28a51_0f4a0e47426c6e53272659519b21a87ba5b38b68/480p/chunklist.m3u8
+http://orcus.tvcast.xyz/hls/s:45.32.217.66/discoverykids_80e28a51_aec7c7292c189eac8c378aed2a2013e06d9bdffe/480p/chunklist.m3u8 
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="  " group-title="Desenhos", DISNEY JUNIOR 
 http://orcus.tvcast.xyz/hls/s:155.138.227.45/disneyjunior_572e2073_3239ddd788da2b02544793e6a540a9d3deedabc0/480p_510kbit/chunklist.m3u8
